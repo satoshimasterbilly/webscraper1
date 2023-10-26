@@ -73,4 +73,5 @@ Inspiration, code snippets, etc.
 * [awesome-readme](https://zerotomastery.io/courses/learn-python/)
 * [BeautifulSoup4](https://beautiful-soup-4.readthedocs.io/en/latest/#quick-start)
 * [webscrapingadd-ons](https://faculty.washington.edu/otoomet/machinelearning-py/web-scraping.html)
+* [hacker-news](https://news.ycombinator.com/)
   
